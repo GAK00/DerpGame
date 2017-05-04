@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{538F1BCA-E32B-4CB9-B5C1-9C9586FB209E}|Default">
+  <MonoDevelop.Ide.ItemProperties.DerpGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DerpGame/Controller/Program.cs">
+    <Files>
+      <File FileName="DerpGame/Controller/Game1.cs" Line="1" Column="1" />
+      <File FileName="DerpGame/Controller/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
